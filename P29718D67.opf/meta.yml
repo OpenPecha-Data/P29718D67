@@ -1,0 +1,13 @@
+id: P29718D67
+initial_creation_type: input
+source_metadata:
+  title: 'MSV 1,08: Kaṭhinavastu'
+  language: bo
+  volumes:
+    2c66cf9b7f15419b86aa88c5ae0627bc:
+      title: Kaṭhinavastu
+      base_file: Kaṭhinavastu.txt
+      work_id: W0ADE5E13
+  chapter_to_tile: {}
+created_at: '2022-03-01T22:18:26.350848'
+last_modified_at: '2022-03-01T22:18:26.350853'
